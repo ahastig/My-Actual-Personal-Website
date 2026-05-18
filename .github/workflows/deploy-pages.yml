@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - cursor/github-pages-deploy-e7ca
   workflow_dispatch:
 
 permissions:
